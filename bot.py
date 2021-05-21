@@ -5,7 +5,7 @@ from tracker import get_prices
 
 telegram_bot_token = "your-telegram-token"
 
-updater = Updater("1888269656:AAFKX_iFr9G0iTnH0Fw9lG1p18MObjTXXFU", use_context=True)
+updater = Updater("1858662171:AAGbZpt2n70SAbb1FneIdfsH007Y8YsyCaY", use_context=True)
 dispatcher = updater.dispatcher
 
 
